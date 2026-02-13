@@ -1,0 +1,9 @@
+t - increase throttle
+[space] - increase target height
+[leftctrl] - decrease target height
+leftclick - fire guns
+rightclick/alt - fire missiles
+tab - set missile target
+right alt - clear targets
+mouse movement to steer
+ship is partially interactable
